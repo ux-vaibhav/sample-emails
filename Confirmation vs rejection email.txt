@@ -1,0 +1,25 @@
+Confirmation vs rejection email 
+
+Acceptance email
+
+Dear Mr./Mrs. [name],
+It is my great pleasure to inform you that I will be accepting your offer for employment as [job title] with [company name]. The goals for this role that you described are in line with my personal career aspirations, and I hope to be able to learn and grow in this role.
+As discussed in our previous meeting, my salary will be [salary] and I will be starting on [date].
+I appreciate all the time you took to make the interviews as seamless as they were, and I look forward to working with you soon.
+Sincerely,
+[Your name]
+
+“This is to inform you that” letter
+Dear Mr./Mrs. [name],
+This is to inform you that your business proposal [title of the proposal] has unfortunately been rejected by our committee. While we did like your idea, unfortunately, the costs involved reach well beyond our budget for this quarter. 
+We wish you the best of luck in your future endeavors and encourage you to submit additional proposals if you have others that are aligned with our goals.
+Best of luck,
+[Your name and job title]
+
+Job rejection email
+Dear [name of hiring manager],
+This is to inform you that I will not be proceeding in the interview process for [job title] with [company name]. I would like to formally withdraw my candidacy.
+At this time, I have accepted a position with another company, so I am no longer in search of employment. However, I would like to sincerely thank you for taking the time to meet with me and for being attentive to my questions about the role. 
+It was a pleasure meeting with you and I wish you luck in finding the right candidate for the job.
+Best regards,
+[Your name]

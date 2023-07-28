@@ -1,0 +1,25 @@
+Work update email
+
+Email to the client sharing the status of the project
+
+Dear [name of client],
+We’d like to keep you updated regarding the progress we’ve made on our project. Please have a look at the tasks we’ve accomplished below and do not hesitate to get back to me with any questions or concerns you may have.
+Key highlights and updates:
+•	[list them]
+Tasks accomplished this week:
+•	[list them]
+Tasks to do next week:
+•	[list them]
+Best regards,
+[Your name]
+
+Email the boss about work progress
+Hi [name of boss],
+I am happy to let you know that the project [name of project] that was assigned to me on [date] is now nearing completion. Due to the hard work of our team, the project is expected to be completed on time. Based on the pace of our work, I expect to have the entire project completed by [date].
+The remaining elements of this project to be completed are as follows:
+•	[List them 1]
+•	[List them 2]
+•	[List them n]
+Thank you for your continued support and guidance and please do not hesitate to get in touch with any questions.
+Regards,
+[Your name]

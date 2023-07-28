@@ -1,0 +1,19 @@
+Request for Additional Information:
+
+Subject: Additional Information Required - [Issue/Task]
+
+Hi [Employee/Client Name],
+
+I hope you're doing well. I'm currently working on the [issue/task] you reported, and I require some additional information to proceed with the investigation/resolution.
+
+Could you please provide the following details:
+
+Error message (if applicable):
+Steps to reproduce the issue (if applicable):
+Any recent changes or updates to your system (if applicable):
+Feel free to share any screenshots or relevant files that might assist in resolving the matter promptly.
+
+Thank you for your cooperation.
+
+Best regards,
+[Your Name]

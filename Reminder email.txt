@@ -1,0 +1,8 @@
+Reminder email
+
+Hi [name],
+I’m sure your schedule is very busy, so this email is simply to remind you of your upcoming interview with [name] who is a candidate for [name of position].
+The interview will be at [time] on [date] in [location].
+Please let me know if there’s anything I can help you with to prepare to interview this candidate.
+Best,
+[Your name]
